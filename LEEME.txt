@@ -1,0 +1,30 @@
+ANDAD EN ÉL — PROTOTIPO WEB GRATUITO
+
+ARCHIVOS:
+index.html: estructura y textos
+styles.css: diseño y adaptación a móviles
+script.js: menú, año y formulario de contacto
+assets/logo-aee.png: logotipo facilitado por el usuario
+
+VISTA PREVIA:
+Abre index.html en Safari o Chrome. Las fotografías y fuentes requieren internet.
+
+PUBLICACIÓN GRATUITA CON GITHUB PAGES:
+1. Crea una cuenta en https://github.com
+2. Crea un repositorio público llamado andad-en-el.
+3. En el repositorio, selecciona Add file > Upload files.
+4. Sube index.html, styles.css, script.js y la carpeta assets con el logo, conservando la estructura.
+   Alternativa: descomprime el ZIP y arrastra todos los archivos y la carpeta assets a la pantalla de carga.
+5. Haz clic en Commit changes.
+6. Abre Settings > Pages. En Build and deployment, selecciona Deploy from a branch.
+7. Elige main y / (root), y pulsa Save.
+8. Espera unos minutos. Tu enlace será:
+   https://TU-USUARIO.github.io/andad-en-el/
+   (sustituye TU-USUARIO por tu nombre de usuario real).
+
+PERSONALIZAR:
+- En script.js, reemplaza CAMBIAR_CORREO@ejemplo.com por el correo real de AEE.
+- En index.html cambia textos y enlaces según los recursos reales del ministerio.
+- Las imágenes de demostración se cargan desde Unsplash; sustitúyelas por imágenes propias o autorizadas antes de la publicación definitiva.
+- El prototipo no acepta pagos ni almacena mensajes. Para donaciones reales, usa un proveedor de pago seguro con enlaces oficiales verificados.
+- GitHub Pages publica sitios estáticos, no incluye bases de datos ni backend.
