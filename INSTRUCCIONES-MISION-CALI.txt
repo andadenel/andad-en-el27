@@ -1,0 +1,10 @@
+ACTUALIZACIÓN MISIÓN CALI — ANDAD EN ÉL
+
+1. Descomprime este ZIP.
+2. En GitHub, entra al repositorio andadenel/andad-en-el27.
+3. Sube los nuevos index.html y styles.css en la raíz, reemplazando los anteriores.
+4. Sube las 11 imágenes cali-mision-01.jpg a cali-mision-11.jpg dentro de la carpeta assets.
+5. Conserva script.js, documentos y los demás archivos existentes.
+6. Confirma los cambios con Commit changes y espera la publicación de GitHub Pages.
+
+La información de las campañas y bautismos procede del testimonio proporcionado por el ministerio.

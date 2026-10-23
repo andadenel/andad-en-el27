@@ -1,0 +1,10 @@
+ACTUALIZACIÓN DE ANDAD EN ÉL — GALERÍA QUIÉNES SOMOS
+
+Para actualizar tu sitio en GitHub:
+1. Abre el repositorio andadenel/andad-en-el27.
+2. Sustituye index.html y styles.css por las versiones de esta carpeta.
+3. Sube las cuatro fotos JPG dentro de la carpeta assets/ (si aún no existe, créala).
+4. Comprueba que las rutas de las fotos coincidan con assets/nombre.jpg.
+5. Confirma los cambios y espera la publicación automática en GitHub Pages.
+
+No borres los otros archivos de tu repositorio.

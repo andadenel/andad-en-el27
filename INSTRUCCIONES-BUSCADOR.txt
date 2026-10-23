@@ -1,0 +1,13 @@
+ANDAD EN ÉL — BUSCADOR Y FILTROS
+
+Se ha añadido búsqueda instantánea y filtros para Libros, Artículos, Revistas y Estudios bíblicos.
+
+PARA ACTUALIZAR TU SITIO EN GITHUB:
+1. Abre el repositorio andadenel/andad-en-el27.
+2. Sustituye index.html, styles.css y script.js por las versiones de esta carpeta.
+3. Si todavía no has subido las fotos, portadas y PDF anteriores, sube también las carpetas assets y documentos.
+4. Haz clic en Commit changes. GitHub Pages actualizará la página.
+
+Para añadir publicaciones nuevas más adelante, incluye una tarjeta .download-card en index.html con data-category=libros, articulos, revistas o estudios y la ruta del PDF. Actualiza los contadores de los botones en index.html.
+
+No requiere base de datos ni servicios de pago.

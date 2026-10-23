@@ -1,0 +1,12 @@
+AEE — CONTACTOS CON GOOGLE SHEETS
+
+1. En Google Sheets crea «AEE — Registro de contactos».
+2. En Extensiones > Apps Script pega el contenido de Code.gs en el editor (sustituye el código inicial). Guarda.
+3. En el selector de funciones elige setup, pulsa Ejecutar y concede los permisos solicitados.
+4. Implementar > Nueva implementación > Aplicación web. Ejecutar como: Yo. Acceso: Cualquier persona. Pulsa Implementar y copia la URL que termina en /exec.
+5. Abre script.js, sustituye PEGAR_URL_DE_APPS_SCRIPT_AQUI por la URL /exec exacta y guarda.
+6. Sube index.html, styles.css y script.js actualizados a tu repositorio GitHub conservando las carpetas assets y documentos.
+7. Prueba con un mensaje ficticio y confirma que aparece en la pestaña Solicitudes.
+8. En Sheets, cambia la columna Estado de Pendiente a En proceso o Respondida cuando atiendas la solicitud.
+
+IMPORTANTE: No se puede identificar a visitantes que no envían el formulario. La URL pública permite recibir envíos, no leer tu hoja. Evita compartir la hoja de respuestas públicamente. La solución básica no incluye protección avanzada contra spam. Si editas Code.gs, publica una versión nueva en Administrar implementaciones.
